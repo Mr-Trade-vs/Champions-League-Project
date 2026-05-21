@@ -1,7 +1,7 @@
 # Project: Champions League - Maven Project
 ### Description
-$$$$
-Built Jave project using **Apache Maven** implemented data different data structures, including:
+
+Built Java project using **Apache Maven** implemented data different data structures, including:
 - HashTable
 - LinkedList
 - PriorityQueue
